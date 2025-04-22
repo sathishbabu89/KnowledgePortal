@@ -1,0 +1,73 @@
+Absolutely! Here's a **simple, impressive 3-slide deck** for your **AI-Powered Knowledge Continuity Portal**, tailored specifically to resonate with **Goldy Samra** from **Lloyds Bank**, a technology leader who’s likely focused on operational resilience, regulatory compliance, and reducing SME dependency.
+
+---
+
+## ✅ **Slide 1: The Burning Problem – Tribal Knowledge Loss**
+
+**Title:**  
+🔒 *“Your Knowledge is Leaving the Building”*
+
+**Visual (simple idea):**  
+- Illustration of a departing employee with a “knowledge cloud” above their head
+- Side-by-side: “Before” (chaotic systems) → “After” (centralized knowledge portal)
+
+**Text Overlay (impactful, not crowded):**  
+- “47% of critical knowledge is never documented” – *Gartner*  
+- “£2.2M/year lost due to poor knowledge handover” – *Panopto*
+
+**Talking Points (you say this):**  
+> “Lloyds is navigating a generational shift — from legacy systems to cloud-native agility. But every resignation or reorg creates a risk: undocumented business logic, lost context, compliance blind spots. This portal addresses that head-on.”
+
+---
+
+## ✅ **Slide 2: The Wow Solution – AI Knowledge Continuity**
+
+**Title:**  
+🧠 *“An Always-On, Self-Learning Knowledge Assistant”*
+
+**Visual Idea:**  
+- A clean 3-part system diagram:
+  1. **Capture** – Drag-drop docs, meeting recordings, Jira tickets  
+  2. **Organize** – AI builds a searchable knowledge graph (FAISS, embeddings)  
+  3. **Access** – Ask in natural language or listen like a podcast
+
+**Demo Script (talk while showing):**  
+> “Let’s say a tech lead leaves. Instead of digging through Confluence, your new dev just asks:  
+> *‘What’s the exception handling flow in the mortgage platform?’* — and gets an instant, accurate answer.”
+
+> “Or listen to today’s key project updates — while commuting. This isn’t documentation, it’s knowledge as a service.”
+
+---
+
+## ✅ **Slide 3: The Business Impact – From Risk to Resilience**
+
+**Title:**  
+🚀 *“From Knowledge Drain to Competitive Edge”*
+
+**Visual:**  
+📊 *Before vs After* table (focused on banking KPIs):
+
+| 📈 **Metric**              | 🕑 *Before* | ⚡ *After 6 Months* |
+|---------------------------|-------------|---------------------|
+| Onboarding Time           | 8 weeks     | 3 weeks             |
+| Dependency on SMEs        | 75%         | 25%                 |
+| Compliance Documentation  | Manual      | Auto-generated      |
+| Incident Root-Cause Time  | 2 days      | 3 hours             |
+
+✅ *Piloted with a Tier-1 bank – enabled seamless SME exit without project delays*
+
+**Call-to-Action Button Visual:**  
+👉 *“Run Your Knowledge Audit – Starts in 7 Days”*
+
+---
+
+## 💬 Final Tip for Pitching to Goldy Samra
+
+**Language that resonates with Lloyds Tech Leaders:**
+- “This de-risks delivery in regulated environments”  
+- “We embed knowledge continuity into your SDLC”  
+- “It’s SharePoint + Jira + Slack — unified and AI-searchable”
+
+---
+
+Would you like me to turn this into a **PowerPoint or Google Slides template** with suggested visuals and notes for you to deliver?
